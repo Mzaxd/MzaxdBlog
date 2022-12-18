@@ -1,0 +1,31 @@
+server:
+  port: 7777
+spring:
+  #MySQL配置
+  datasource:
+    url: jdbc:mysql://192.168.1.98:3306/sg_blog?characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: rootroot
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  servlet:
+    multipart:
+      max-file-size: 2MB
+      max-request-size: 5MB
+  #Redis配置
+  redis:
+    host: 192.168.1.98
+    database: 2
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      logic-delete-field: delFlag
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+      id-type: auto
+#七牛云对象存储配置
+oss:
+  accessKey:
+  secretKey:
+  bucket:

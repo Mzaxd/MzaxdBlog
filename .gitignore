@@ -1,0 +1,4 @@
+# Project exclude paths
+/SGBlog/admin/target/
+/SGBlog/blog/target/
+/SGBlog/framework/target/

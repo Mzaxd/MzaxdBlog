@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SGBlog/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="630" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/SGBlog/blog/src/main/java/com/mzaxd/controller/BlogLoginController.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="365" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/SGBlog/framework/src/main/java/com/mzaxd/service/BlogLoginService.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="397" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/SGBlog/framework/src/main/java/com/mzaxd/service/ArticleService.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1227" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/SGBlog/framework/src/main/java/com/mzaxd/service/impl/ArticleServiceImpl.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1091" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/SGBlog/framework/src/main/java/com/mzaxd/config/SecurityConfig.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="246" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/SGBlog/framework/src/main/java/com/mzaxd/service/UserService.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="308" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/SGBlog/framework/src/main/java/com/mzaxd/service/LinkService.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="357" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/SGBlog/framework/src/main/java/com/mzaxd/service/CategoryService.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="639" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/SGBlog/framework/src/main/java/com/mzaxd/service/impl/BlogLoginServiceImpl.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="614" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/SGBlog/blog/src/main/java/com/mzaxd/config/SecurityConfig.java" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
